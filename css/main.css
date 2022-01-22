@@ -1,11 +1,11 @@
 
-.right {
+#right {
   right: 0px;
   width: 400px;
   padding: 10px;
 }
 
-.left {
+#left {
   left: 0px;
   width: 500px;
   padding: 10px;
